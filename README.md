@@ -1,60 +1,48 @@
 👋 Hi, I'm Ondrej
 
-Software Engineer transitioning into Python Backend + AI Engineering
-Focused on building practical, AI-enabled applications and moving toward impactful engineering roles in biotech, medtech, and scientific tech.
+I’m a software engineer with a backend mindset who likes understanding how things *actually* work — not just wiring frameworks together
+Right now I’m focusing on **TypeScript full-stack development**, while using **Python mostly as a practical tool** for automation, scripts, and experiments
+I care a lot about clarity, reasoning, and being able to explain my own code without hiding behind abstractions
 
 🚀 About Me
 
-I’m currently deepening my Python backend skills while learning how to integrate AI (LLMs, embeddings, vector search, RAG) into real applications.
-My goal is to apply engineering in meaningful scientific domains where software directly supports research, medicine, or technical innovation.
+Learning fewer things properly
+Building things from scratch to understand the tradeoffs
+Slowing down when something feels hand-wavy
+Avoiding tech that looks impressive but collapses under questioning
+
+I’m most comfortable on the backend, but I like full-stack work when it helps me understand the whole system — especially the contract between frontend, backend, and data
 
 🔥 Current Focus
 
-Python backend development (FastAPI, PostgreSQL, SQLModel/SQLAlchemy)
-
-AI integration patterns (retrieval pipelines, vector databases, embeddings)
-
-Building clean system architecture: async, testing, logging, queues, Docker
-
-Tools related to biotech data extraction, research processing, and knowledge retrieval
-
-🧪 Active Projects
-
-🔹 AI Knowledge Engine
-
-FastAPI + pgvector → embeddings, semantic search, and LLM chat over personal notes.
-
-🔹 Biotech Research Extractor
-
-Prototype that extracts structured insights from biomedical PDFs using Python + LLMs.
-
-🔹 Backend Systems Demo
-
-Modular Python backend with async tasks, queues, CI, and clean architecture.
-
-(Projects updated continuously as I progress through my structured roadmap.)
+TypeScript backend (Node.js, APIs, async flows)
+Different API styles and their tradeoffs
+Databases and data modeling (PostgreSQL, Redis)
+Understanding system behavior: errors, edge cases, performance
+Python for automation, scripts, and internal tools & AI / LLM experiments when they solve a concrete problem
 
 🛠️ Tech Stack
 
-Backend:
-Python • FastAPI • SQLAlchemy / SQLModel • PostgreSQL
+**Backend**
+TypeScript • Node.js
+REST • GraphQL • WebSockets • event-driven patterns
+PostgreSQL • Redis
 
-AI/ML:
-OpenAI API • Embeddings • Vector Search • pgvector • RAG
+**Frontend**
+TypeScript • React • Next.js
+(not a master designer, but I care about correctness and contracts)
 
-Frontend:
-React • Next.js • TypeScript
+**Automation / Utilities**
+Python • FastAPI (when it makes sense)
 
-DevOps & Tools:
-Docker • GitHub Actions • AWS • Terraform
-pytest • ruff • mypy • httpx • Pydantic
+**Other**
+Docker • GitHub Actions
+Cloud fundamentals (AWS / Azure)
 
 🎯 My Direction
 
-Building toward a strong mid-level Python backend role with emphasis on AI-assisted software in:
-biotech • medtech • scientific research platforms • robotics-adjacent tech
-
-I enjoy focused, low-bureaucracy environments with clear goals and motivated teams.
+I’m aiming for a **backend or backend-leaning full-stack role in TypeScript**
+I enjoy focused, low-bureaucracy environments with clear goals and motivated teams
 
 📫 Connect
 
