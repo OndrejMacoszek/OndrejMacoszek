@@ -1,4 +1,4 @@
-👋 Hi, I’m Ondrej
+👋 Hi, I'm Ondrej
 
 I’m a software engineer with a backend mindset who likes understanding how things *actually* work — not just wiring frameworks together.
 
@@ -10,38 +10,22 @@ I care a lot about clarity, reasoning, and being able to explain my own code wit
 
 ## 🚀 About Me
 
-How I tend to work and learn:
+- Learning fewer things properly.
+- Building things from scratch to understand the tradeoffs.
+- Slowing down when something feels hand-wavy.
+- Avoiding tech that looks impressive but collapses under questioning.
 
-- Learning fewer things properly
-- Building things from scratch to understand tradeoffs
-- Slowing down when something feels hand-wavy
-- Avoiding tech that looks impressive but collapses under questioning
-
-I’m most comfortable on the backend, but I like full-stack work when it helps me understand the whole system — especially the **contract between frontend, backend, and data**.
+I’m most comfortable on the backend, but I like full-stack work when it helps me understand the whole system — especially the contract between frontend, backend, and data.
 
 ---
 
 ## 🔥 Current Focus
 
-**Backend & System Fundamentals**
-- TypeScript backend development (Node.js, async flows)
-- API design and behavior
-- Error handling, edge cases, performance
-
-**API Styles & Communication**
-- REST (resource-oriented, predictable)
-- GraphQL (schema-driven)
-- WebSockets (real-time, stateful)
-- Event-driven patterns (async workflows)
-
-**Data & Persistence**
-- PostgreSQL
-- Redis
-- Data modeling and consistency
-
-**Automation & Utilities**
-- Python for scripts, automation, and internal tools
-- AI / LLM experiments when they solve a concrete problem
+- TypeScript backend (Node.js, APIs, async flows).
+- Different API styles and their tradeoffs.
+- Databases and data modeling (PostgreSQL, Redis).
+- Understanding system behavior: errors, edge cases, performance.
+- Python for automation, scripts, and internal tools & AI / LLM experiments when they solve a concrete problem.
 
 ---
 
@@ -50,25 +34,29 @@ I’m most comfortable on the backend, but I like full-stack work when it helps 
 ### Backend
 - TypeScript
 - Node.js
-- REST • GraphQL • WebSockets • event-driven patterns
-- PostgreSQL • Redis
+- REST
+- GraphQL
+- WebSockets
+- Event-driven patterns
+- PostgreSQL
+- Redis
 
 ### Frontend
 - TypeScript
 - React
 - Next.js  
 
-_Not a designer, but I care about correctness and clean contracts._
+_(not a master designer, but I care about correctness and contracts)_
 
-### Automation & Tooling
+### Automation / Utilities
 - Python
 - FastAPI (when it makes sense)
 - Docker
 - GitHub Actions
 
 ### Cloud
-- AWS (fundamentals)
-- Azure (fundamentals)
+- AWS
+- Azure
 
 ---
 
@@ -76,15 +64,11 @@ _Not a designer, but I care about correctness and clean contracts._
 
 I’m aiming for a **backend or backend-leaning full-stack role in TypeScript**.
 
-I enjoy:
-- focused environments
-- low bureaucracy
-- clear goals
-- teams that value thinking and code quality
+I enjoy focused, low-bureaucracy environments with clear goals and motivated teams.
 
 ---
 
 ## 📫 Connect
 
-- **LinkedIn**: https://www.linkedin.com/in/ondrej-macoszek/
-- **GitHub**: you’re here
+- LinkedIn: https://www.linkedin.com/in/ondrej-macoszek/
+- GitHub: you’re here
