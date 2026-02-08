@@ -32,22 +32,21 @@ Python for automation, scripts, and internal tools & AI / LLM experiments when t
 
 🛠️ Tech Stack
 
-**Backend**
+**Backend**:
 TypeScript • Node.js
 
 REST • GraphQL • WebSockets • event-driven patterns
 
 PostgreSQL • Redis
 
-**Frontend**
+**Frontend**:
 TypeScript • React • Next.js
 
 (not a master designer, but I care about correctness and contracts)
 
-**Automation / Utilities**
+**Automation / Utilities**:
 Python • FastAPI (when it makes sense)
 
-**Other**
 Docker • GitHub Actions
 
 Cloud fundamentals (AWS / Azure)
