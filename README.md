@@ -50,7 +50,6 @@ _(not a master designer, but I care about correctness and contracts)_
 
 ### Automation / Utilities
 - Python
-- FastAPI (when it makes sense)
 - Docker
 - GitHub Actions
 
