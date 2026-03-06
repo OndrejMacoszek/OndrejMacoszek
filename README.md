@@ -10,12 +10,11 @@ I care a lot about clarity, reasoning, and being able to explain my own code wit
 
 ## 🚀 About Me
 
-- Learning fewer things properly.
 - Building things from scratch to understand the tradeoffs.
 - Slowing down when something feels hand-wavy.
 - Avoiding tech that looks impressive but collapses under questioning.
 
-I’m most comfortable on the backend, but I like full-stack work when it helps me understand the whole system — especially the contract between frontend, backend, and data.
+I like full-stack work when it helps me understand the whole system — especially the contract between frontend, backend, and data.
 
 ---
 
@@ -45,8 +44,6 @@ I’m most comfortable on the backend, but I like full-stack work when it helps 
 - TypeScript
 - React
 - Next.js  
-
-_(not a master designer, but I care about correctness and contracts)_
 
 ### Automation / Utilities
 - Python
